@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/samuel/Applications/anaconda3/bin/python",
+    "argv":["declaration.txt", "declarationKey.txt","declarationKey.txt"],
+}
